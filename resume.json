@@ -1,0 +1,41 @@
+//My resume
+{
+  "name": "Arun Kumar R",
+  "contact": {
+    "email": "arun72453@gmail.com & arunajithrak007mech@gmail.com",
+    "phone": "8668142957",
+    "github": "https://github.com/ArunAjith-RAK10"
+  },
+  "summary": "Aspiring Full-Stack Developer with a passion for building scalable web applications.",
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React.js",
+    "Node.js",
+    "MongoDB",
+    "Git & GitHub"
+  ],
+  "experience": [
+    {
+      "role": "Web Developer Intern",
+      "status": "Currently FSWD learner",
+      "responsibilities": [
+        "Developed responsive web applications using React.js",
+        "Implemented RESTful APIs with Node.js and Express",
+        "Worked with Git for version control and collaborated on GitHub"
+      ]
+    }
+  ],
+  "education": [
+    { "course": "Full Stack Web Development",
+      "institution": "Guvi",
+      "year": "2023 - 2024"    
+  },
+    {
+      "degree": "Bachelor's in Mechanical Engineering",
+      "institution": "Er.Perumal Manimekalai Engineering college",
+      "year": "2014 - 2018"
+    }
+  ]
+}
